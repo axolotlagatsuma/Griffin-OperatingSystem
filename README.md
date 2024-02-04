@@ -1,7 +1,7 @@
 # Repository : GriffinOS
 ## Branch : Simple Distro
 This is such simple distro that uses busybox for the user space, syslinux for the bootloader and as you can predict it uses the linux kernel. 
-To run it simply use:
+To run it simply unzip the file and use:
 ```
 sudo qemu-system-x86_64 boot
 ```
