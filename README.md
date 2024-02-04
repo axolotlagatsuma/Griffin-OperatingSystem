@@ -1,6 +1,3 @@
-# **GriffinOS**
-## What the heck is GriffinOS?
-GriffinOS is a operating system that is planned to be based on Debian.
-GriffinOS's main focus is server management, especially game server management. There is not much to say about it because it's not even in development lol.
-
-Changelog 0.1: [CraftyController](https://craftycontrol.com) is "planned" to be installed out-of-box. I didn't talked about this with developers.
+# Repository : GriffinOS
+## Branch : Simple Distro
+This is such simple distro that uses busybox for the user space, syslinux for the bootloader and as you can predict it uses the linux kernel.
